@@ -1,3 +1,3 @@
 ﻿# React-Navigation
  
- Just make a training for React Native
+ Just me training for React Navigation for React Native
